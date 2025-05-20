@@ -2,11 +2,12 @@
 
 > https://velog.io/@asdf-dev/RenPy-Happy-Birthday-Haruchi
 
+> [!NOTE]
 > 🕹 zip 압축 해제 후, 실행파일([WIN] .exe /[MAC] .dmg) HAPPYBIRTHDAYHARUCHI를 실행하면 게임이 시작됩니다.
 
 ## 🔧기술 스택
 
-<img src="https://img.shields.io/badge/renpy-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/renpy-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge">
 
 ## 🛠구현 기능
 
